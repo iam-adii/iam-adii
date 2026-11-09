@@ -41,7 +41,7 @@ Most of my client and product work stays private. Here are products I lead or sh
 
 | Project | What it is | Link |
 | --- | --- | --- |
-| **Travmingo** | Travel & tour booking platform (tours, trip planner, cabs) | [Live demo](https://travmingo-next.vercel.app) |
+| **Travmingo** | Travel & tour booking platform (tours, trip planner, cabs) | [Live site](https://travmingo.com/) |
 | **TaziraSales** | Sales / ERP stack for Tazira Solutions (web + React Native) | Private |
 | **MadeitLand** | Marketplace ecosystem — vendor, customer & admin apps | Private |
 | **Lodgify** | Hotel management web app (React + Vite + Express + MySQL) | Private |
@@ -61,21 +61,12 @@ Most of my client and product work stays private. Here are products I lead or sh
 
 ---
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-adii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-adii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
-</p>
-
----
-
 ## Contact
 
 - **Website:** [uniexdesigns.com](https://uniexdesigns.com)
 - **GitHub:** [@iam-adii](https://github.com/iam-adii)
 - **Email:** [info.uniexdesigns@gmail.com](mailto:info.uniexdesigns@gmail.com)
-- **LinkedIn:** `<!-- TODO: paste your LinkedIn profile URL -->`
+- **LinkedIn:** [linkedin.com/in/itsdev-syed](https://www.linkedin.com/in/itsdev-syed/)
 
 Open to product builds, agency partnerships, and SaaS collaborations.
 
