@@ -43,7 +43,7 @@ Most of my client and product work stays private. Here are products I lead or sh
 | --- | --- | --- |
 | **Travmingo** | Travel & tour booking platform (tours, trip planner, cabs) | [Live site](https://travmingo.com/) |
 | **TaziraSales** | Sales / ERP stack for Tazira Solutions (web + React Native) | Private |
-| **MadeitLand** | Marketplace ecosystem — vendor, customer & admin apps | Private |
+| **MadeitLand** | Marketplace ecosystem — vendor, customer & admin apps | [Live site](https://m.madeitland.com/) |
 | **Lodgify** | Hotel management web app (React + Vite + Express + MySQL) | Private |
 | **TeaWare** | Tea warehouse management system | Private |
 | **Azaan** | Local azaan broadcast system | Private |
@@ -58,20 +58,3 @@ Most of my client and product work stays private. Here are products I lead or sh
 - Shipping **Travmingo** and client builds under **UniEx Designs**
 - Product work with **Tazira Solutions** (ERP / sales for GCC markets)
 - Polishing this GitHub profile so public work matches the quality of private client projects
-
----
-
-## Contact
-
-- **Website:** [uniexdesigns.com](https://uniexdesigns.com)
-- **GitHub:** [@iam-adii](https://github.com/iam-adii)
-- **Email:** [info.uniexdesigns@gmail.com](mailto:info.uniexdesigns@gmail.com)
-- **LinkedIn:** [linkedin.com/in/itsdev-syed](https://www.linkedin.com/in/itsdev-syed/)
-
-Open to product builds, agency partnerships, and SaaS collaborations.
-
-<div align="center">
-
-✨ Built with care at UniEx Designs
-
-</div>
